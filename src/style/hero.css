@@ -1,0 +1,27 @@
+.hero {
+	height: 100vh;
+	background: rgb(231, 111, 164);
+	background: radial-gradient(
+		circle,
+		rgba(231, 111, 164, 1) 0%,
+		rgba(190, 181, 218, 1) 64%,
+		rgba(110, 204, 217, 1) 100%
+	);
+
+	scroll-snap-type: y mandatory;
+	scroll-behavior: smooth;
+	scrollbar-width: none;
+	color: white;
+}
+
+.hero-text {
+	margin-top: 28%;
+}
+
+.hero-img-content {
+	margin-top: 15%;
+}
+
+.hero-img-style {
+	height: 20%;
+}

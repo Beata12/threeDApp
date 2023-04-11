@@ -1,0 +1,14 @@
+.nav {
+	height: 50px;
+	padding: 10px;
+	background: rgb(231, 111, 164);
+	background: radial-gradient(
+		rgba(231, 111, 164, 1) 0%,
+		rgba(190, 181, 218, 1) 64%,
+		rgba(110, 204, 217, 1) 100%
+	);
+}
+
+.logo {
+	margin-left: 10px;
+}
