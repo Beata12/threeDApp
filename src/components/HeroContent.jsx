@@ -8,7 +8,9 @@ function HeroContent() {
 					<h1>Would you like to get to know new uniwerse?</h1>
 					<h2>Now it is possible</h2>
 					<h3>Just wait and see</h3>
-					<button className="btn btn-secondary">Więcej</button>
+					<button className="btn btn-secondary hero-btn">
+						Więcej
+					</button>
 				</div>
 				<div className="col-md-6 text-center hero-img-content">
 					<img
